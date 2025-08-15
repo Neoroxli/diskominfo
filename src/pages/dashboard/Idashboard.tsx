@@ -4,7 +4,7 @@ import { HoverEffect } from "@/components/ui/card-hover-effect";
 
 export default function Idashboard() {
   return (
-    <div className="min-h-screen flex flex-col justify-between bg-[url('image/bg_dashboard.jpg')] bg-cover">
+    <div className="min-h-screen flex flex-col justify-between bg-[url('/image/bg_dashboard.jpg')] bg-cover">
       <NavbarDemo>
         <div className="container mx-auto pt-10">
           <div className="">
